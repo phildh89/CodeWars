@@ -8,7 +8,7 @@ namespace SBMeme
         {
             Console.WriteLine("SBMeme.Program.Main()");
 
-            Console.WriteLine(Meme("I love this class"));
+            Console.WriteLine(Meme("i am big brain. i have big pee pee"));
         }
 
         public static string Meme(string inputPhrase)

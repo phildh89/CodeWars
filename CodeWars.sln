@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars", "CodeWars\CodeWa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendOrFoe", "FriendOrFoe\FriendOrFoe.csproj", "{746119FF-468C-46BA-BF0A-108CFC27F491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBMeme", "SBMeme\SBMeme.csproj", "{D606C6FB-D204-441F-98C3-60DDF4217429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBMeme", "SBMeme\SBMeme.csproj", "{D606C6FB-D204-441F-98C3-60DDF4217429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderStringArray", "OrderStringArray\OrderStringArray.csproj", "{0579C552-9EBC-46FB-896D-6C570CF4A37D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D606C6FB-D204-441F-98C3-60DDF4217429}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D606C6FB-D204-441F-98C3-60DDF4217429}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D606C6FB-D204-441F-98C3-60DDF4217429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0579C552-9EBC-46FB-896D-6C570CF4A37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579C552-9EBC-46FB-896D-6C570CF4A37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579C552-9EBC-46FB-896D-6C570CF4A37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579C552-9EBC-46FB-896D-6C570CF4A37D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
