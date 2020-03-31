@@ -7,6 +7,7 @@ namespace LongestWord
         static void Main(string[] args)
         {
             LongestWord("the quick brown fox");
+            Console.WriteLine();
             Test1("the quick brown fox");
         }
 
@@ -23,12 +24,14 @@ namespace LongestWord
                     count = inputSplit[i].Length;
                 }
             }
+
+            Console.Write("The longest word(s) = ");
+
             for (int i = 0; i < inputSplit.Length; i++)
             {
-
                 if (inputSplit[i].Length == count)
                 {
-                    Console.WriteLine(inputSplit[i]);
+                    Console.Write($"{inputSplit[i]} ");
                 }
             }
 
