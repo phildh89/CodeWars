@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountBits", "CountBits\Coun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortStringArray", "SortStringArray\SortStringArray.csproj", "{305017A8-004F-4676-A23E-860E1D9D8352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitialRoot", "DigitialRoot\DigitialRoot.csproj", "{0AA428FC-9309-4338-873E-5E2E83978204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitialRoot", "DigitialRoot\DigitialRoot.csproj", "{0AA428FC-9309-4338-873E-5E2E83978204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumul", "Accumul\Accumul.csproj", "{16901F19-8A41-4D7A-815C-2148E88D7E80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{0AA428FC-9309-4338-873E-5E2E83978204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA428FC-9309-4338-873E-5E2E83978204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA428FC-9309-4338-873E-5E2E83978204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
