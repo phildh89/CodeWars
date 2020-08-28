@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortStringArray", "SortStri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitialRoot", "DigitialRoot\DigitialRoot.csproj", "{0AA428FC-9309-4338-873E-5E2E83978204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumul", "Accumul\Accumul.csproj", "{16901F19-8A41-4D7A-815C-2148E88D7E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accumul", "Accumul\Accumul.csproj", "{16901F19-8A41-4D7A-815C-2148E88D7E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogPottyTimer", "DogPottyTimer\DogPottyTimer.csproj", "{9B4695CE-BAAA-4D74-9518-01B8654DE94C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16901F19-8A41-4D7A-815C-2148E88D7E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4695CE-BAAA-4D74-9518-01B8654DE94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4695CE-BAAA-4D74-9518-01B8654DE94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4695CE-BAAA-4D74-9518-01B8654DE94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4695CE-BAAA-4D74-9518-01B8654DE94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
